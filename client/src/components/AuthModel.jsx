@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { FaTimes } from 'react-icons/fa'
-import Auth from '../pages/auth'
+import Auth from '../pages/Auth'
 import { useSelector } from 'react-redux'
 
 function AuthModel({onClose}) {
